@@ -5,7 +5,7 @@
 
 <h1 align="center">Hello 👋, I'm Yagnesh Mangali</h1>
 <img align="right" alt = "Coding" width ="325" src = https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif>
-<h3 align="">📊 Master's student in Data Science at SUNY Buffalo.</h3>
+<h3 align="">📊 Master's student in Data Science at University at Buffalo - SUNY.</h3>
 <h3 align="left">🌟 Enthusiastic learner, always ready for new challenges</h3>
 <h3 align="left">🚀 Fuelled by passion, powered by Python, R, and SQL.</h3>
 <h3 align="left">👥 Thrives in teamwork; equally adept at solo initiatives.</h3>
