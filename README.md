@@ -5,7 +5,7 @@
 
 <h1 align="center">Hello 👋, I'm Yagnesh Mangali</h1>
 <img align="right" alt = "Coding" width ="325" src = https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif>
-<h3 align="">I’m a Data Scientist and AI/ML Engineer currently pursuing a Master’s in Data Science at the University at Buffalo, with expected graduation in December 2024. </h3>
+<h3 align="">I’m a Data Scientist and AI/ML Engineer currently pursuing a Master’s in Data Science at the University at Buffalo - SUNY, with expected graduation in December 2024. </h3>
 <h3 align="left">I hold an undergraduate degree in Artificial Intelligence and have hands-on experience from my work with Elico Healthcare Services and Recordent. </h3>
 <h3 align="left">I’m excited to bring my skills in AI, ML, and data science to new opportunities and challenges. Let’s connect to discuss how I can contribute to your team.</h3>
 
