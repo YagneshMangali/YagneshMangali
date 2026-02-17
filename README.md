@@ -6,7 +6,7 @@
 <h2 align="center">Hello 👋, I'm Yagnesh Mangali</h2>
 
 <h3 align="justify">
-AI/ML Engineer with 3+ years of experience building production-grade ML systems and LLM-powered workflows in Python.
+AI/ML Engineer experience in building production-grade ML systems and LLM-powered workflows in Python.
 I specialize in document understanding, large-scale data extraction, and retrieval-augmented pipelines turning unstructured web and PDF data into reliable, structured signals at scale.
 <br><br>
 I focus on owning systems end-to-end, from modeling and data pipelines to API integration and deployment, with an emphasis on scalability, reliability, and measurable product impact.
